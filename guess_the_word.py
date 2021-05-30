@@ -246,7 +246,7 @@ def continue_play(turns):
 
 questions = {
     1: ['devdas', 'dhoom', 'titanic', 'kites', 'raone', 'avatar'],
-    2: ['paris', 'newyork', 'newdelhi', 'rome', 'athens', 'muscat'],
+    2: ['paris', 'washingtondc', 'newdelhi', 'rome', 'athens', 'muscat'],
     3: ['french', 'hindi', 'arabic', 'english', 'german', 'greek'],
     }
 TURN = 1
